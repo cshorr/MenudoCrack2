@@ -6,3 +6,31 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# PyCharm and system files
+.idea/
+*.iml
+*.pyc
+__pycache__/
+.DS_Store
+
+# Ignore common archive and wordlist formats
+*.zip
+*.tar.gz
+*.gz
+*.7z
+*.rar
+*.bak
+*.log
+
+# Ignore specific huge files/folders
+rockyou_large/
+wordlists/SecLists/Passwords/
+wordlists/SecLists/Usernames/
+wordlists/SecLists/Fuzzing/
+wordlists/SecLists/Web-Shells/
+wordlists/SecLists/*/*/*/templates/
+wordlists/pokemon.txt
+wordlists/rockyou.txt
+
+# Optional: ignore all txt wordlists if needed
+# *.txt

@@ -1,0 +1,8 @@
+{
+  "rockyou_large": "/home/cshor/wordlists/rockyou_large.txt"
+,
+  "rockyou": "/home/cshor/PythonProjects/NCL_Tools/Hacking.py/wordlists/rockyou.txt",
+  "darkc0de": "/home/cshor/PythonProjects/NCL_Tools/Hacking.py/wordlists/SecLists/Passwords/darkc0de.txt",
+  "500-worst": "/home/cshor/PythonProjects/NCL_Tools/Hacking.py/wordlists/SecLists/Passwords/500-worst-passwords.txt",
+  "darkweb": "/home/cshor/PythonProjects/NCL_Tools/Hacking.py/wordlists/SecLists/Passwords/darkweb2017-top10000.txt"
+}
